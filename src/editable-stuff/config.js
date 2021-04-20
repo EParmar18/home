@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Eshan Parmar. I’m a CS Major with an Econ Minor at the University of Pittsburgh planning to graduate in the Spring of 2022. In my free time I like working on open source projects.",
-  resume: "../editable-stuff/resume.pdf",
+  resume: "https://drive.google.com/file/d/1cQ3G932S_YDtA0llxDSLEI3IB4TvjT7s/view?usp=sharing",
 };
 
 // PROJECTS SECTION
