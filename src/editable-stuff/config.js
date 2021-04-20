@@ -16,20 +16,12 @@ const mainBody = {
       url: "https://github.com/EParmar18",
     },
     {
-      image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
-    },
-    {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/eshan.parmar/?hl=en",
     },
     {
       image: "fa-linkedin",
       url: "https://www.linkedin.com/in/eshan-parmar-878275172/",
-    },
-    {
-      image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
     },
   ],
 };
@@ -55,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Eshan Parmar. I’m a CS Major with an Econ Minor at the University of Pittsburgh planning to graduate in the Spring of 2022. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "../editable-stuff/resume.pdf",
 };
 
 // PROJECTS SECTION
